@@ -1,0 +1,25 @@
+#bio {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 15rem;
+    background-color: #282923;
+    color: white;
+}
+
+.left {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right p {
+    margin-bottom: 3rem;
+    margin-left: 60px
+}
+
+#down {
+    margin-left: 60px
+}

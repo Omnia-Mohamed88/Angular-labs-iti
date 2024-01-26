@@ -1,0 +1,52 @@
+.image {
+    position: relative;
+    width: 100%;
+    /* Assuming you want the image and name to take the full width of the container */
+}
+
+#im1 {
+    width: 100%;
+    height: auto;
+
+}
+
+.name {
+    position: absolute;
+    top: 60%;
+    left: 2%;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 3;
+    font-weight: bold;
+    /* Adjust as needed */
+
+}
+
+#pos {
+    position: absolute;
+    margin-top: 10px;
+    top: 50%;
+    left: 9%;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+/* #pdf {
+    position: absolute;
+    margin-top: 40px;
+    top: 60%;
+    left: 30%;
+    color: cadetblue;
+    width: 150px;
+
+} */
+.contact-button {
+    position: absolute;
+    margin-top: 40px;
+    top: 60%;
+    left: 30%;
+    color: cadetblue;
+    width: 150px;
+
+}
